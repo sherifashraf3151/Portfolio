@@ -5,7 +5,7 @@
   <h3 align="center">FrontEnd Developer | React.js | NEXT.js</h3>
   <br>
 
-  <p align="center">
+  <p align="center" display="flex">
   - 🏫: I'm a `Computer Science & Information Technology Fresh Graduate` From <br> The Faculty of Computer & Information Sciences - Kafr El-Sheikh University <br>
   - 🌱 I’m Currently Studying `FRONT-END` and `BACK-END`<br>
   - 📫 How to Reach Me    <a href="mailto:manarshahin48@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>   <br>
